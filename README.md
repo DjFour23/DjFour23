@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![](https://www.nicepng.com/png/detail/212-2129682_aguacate-png-sin-fondo.png)
+![](https://images.vexels.com/media/users/3/230816/isolated/preview/dc9e804e2b94a54b12f6984e56e14837-dibujos-animados-de-aguacate-feliz.png)
 
 
 ![]([https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg))<br/>
