@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 ![]([https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg))
 ![](https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DjFour23&theme=dark&hide_border=false)
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
