@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
 
 
 ![]([https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg))<br/>
