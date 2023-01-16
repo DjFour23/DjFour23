@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
-![]()
+![](https://static.wikia.nocookie.net/marvelcomicsenciclopedia/images/c/c4/La_cosa.jpg/revision/latest/scale-to-width-down/350?cb=20120605191426)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DjFour23&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
