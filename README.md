@@ -61,13 +61,9 @@ Here are some ideas to get you started:
 ![]([https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg))
 ![](https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DjFour23&theme=dark&hide_border=false)
-<div class="card" style="width: 18rem;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" class="card-img-top" alt="aguacate">
-  <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-![](https://static.wikia.nocookie.net/marvelcomicsenciclopedia/images/c/c4/La_cosa.jpg/revision/latest/scale-to-width-down/350?cb=20120605191426)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DjFour23&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
