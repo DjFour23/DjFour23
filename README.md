@@ -4,7 +4,6 @@
     </a> <br/>
     Click up here to go to my portfolio :D.
     <br/>
- # 💻 About me:
  
 <!--
 **DjFour23/DjFour23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,10 +63,10 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![]([https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg))
+<!-- ![]([https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)) -->
 ![](https://github-readme-stats.vercel.app/api?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DjFour23&theme=dark&hide_border=false)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=DjFour23&theme=dark&hide_border=false) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DjFour23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
