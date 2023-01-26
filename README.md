@@ -1,8 +1,9 @@
 ### Hi there 👋
 <a href="https://thriving-rabanadas-ccdab1.netlify.app/" target="_blank" rel="noreferrer"> 
         <img src="https://images.vexels.com/media/users/3/230816/isolated/preview/dc9e804e2b94a54b12f6984e56e14837-dibujos-animados-de-aguacate-feliz.png" alt="aguacate" width="40" height="40"/> 
-    </a>
-    click here to go to my portfolio :D
+    </a> <br/>
+    Click up here to go to my portfolio :D.
+    <br/>
  
  
 <!--
